@@ -4,12 +4,25 @@ High school biology students classically learn about DNA and its mechanisms. Sup
 ## How Can We Use Space Biology to Learn About...
 #Model Organisms
 Use space biology examples to teach students about the use of model organisms such as mice, zebrafish, and fruit flies, and learn to navigate portions of the metadata on the GeneLab Data Repository.
+ English: ActivityModelOrganisms.pdf
+ Spanish:
 
 #Interpreting Visual Representations of Data (Graphs, Charts, or Plots)
 Use one of the GeneLab Datasets to explore visualizations relevant to assessing data for statistical and biological significance. Encourage students to evaluate what a graph depicts by reading labels.
+ English: ActivityDataVisualizations.pdf
+ Spanish:
 
 #The Immune System
 Explore studies in the GeneLab Data Repository associated with the organs of the immune system. This activity can be used to introduce a systems-based approach to health studies.
+ English: ActivityImmuneSystem.pdf
+ Spanish:
 
 #Plants
 Using four GeneLab datasets, introduce students to plant model organisms and the types of equipment needed to conduct plant experiments in space. This activity can be used to address engineering challenges needed for biological systems.
+ English: ActivityPlantsInSpace.pdf
+ Spanish:
+
+#Scientific Method
+Foster a sense of curiosity to promote asking questions that can be molded into testable, scientific questions and apply it to the data sciences using the ODSR. This main activity is most suitable for high school students, but includes suggestions for scaling to teach to younger learners.
+  English: ActivityScientificMethod
+  Spanish: 
